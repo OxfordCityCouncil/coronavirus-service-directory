@@ -15,7 +15,7 @@ class Service < ApplicationRecord
   def self.categories
     [
       ["Groceries and cooked meals", "food"],
-      ["Dog walking", "pets"],
+      ["Dog walking3", "pets"],
       ["Staying social", "social"],
       ["Financial support", "financial"],
       ["Book drops and entertainment", "entertainment"],
